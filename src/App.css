@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -20,6 +21,7 @@ h3 {
 button {
   margin: 10px 0;
   padding: 5px 10px;
+  background-color: #f76cb2;
 }
 
 .wrapper {
@@ -54,4 +56,7 @@ ul {
   to {
     transform: rotate(360deg);
   }
+}
+#names{
+  align-items:center ;
 }
